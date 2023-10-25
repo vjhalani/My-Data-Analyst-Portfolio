@@ -22,11 +22,11 @@ In this section i will list data analytics projects briefly describing the techn
    Results: <br/>
 <br/>
 **SMS Spam Detection**<br/>
-    [Code] <br/>
+    [Code]() <br/>
     Description:<br/>
 <br/>
 **Energy Consumption Dashboard**<br/>
-    [PowerBi File] <br/>
+    [PowerBi File]() <br/>
     Description: <br/>
 
 Learning Projects
