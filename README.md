@@ -34,3 +34,5 @@ Learning Projects
 
 
 ## My Data Analytics and Machine Learning Certificate
+
+[Data Analytics and Machine Learning Certificate](https://github.com/vjhalani/My-Data-Analyst-Portfolio/blob/main/DataAnalytics_Certificate.pdf)
