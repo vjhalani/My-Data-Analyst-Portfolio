@@ -11,20 +11,22 @@ Lets connect and explore the data-driven possibilities.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunjhalani/)
 
 ## Portfolio Projects
-In this section i will list data analytics projects briefly describing the technology used to solve the case
+In this section i will list data analytics projects briefly describing the technology used to solve the cases.
 
 **Customer Churn Analysis**<br/>
    [Code](https://github.com/vjhalani/My-Data-Analyst-Portfolio/blob/main/Telecom_Customer_Churn.ipynb)<br/>
    [PowerBI File](https://github.com/vjhalani/My-Data-Analyst-Portfolio/blob/main/telco_powerbi.pbix)<br/>
    [PPT](https://github.com/vjhalani/My-Data-Analyst-Portfolio/blob/main/Telecom%20Customer%20Churn%20Prediction%20Using%20Machine%20Learning.pptx)<br/>
-   [Description:]<br/>
+   Description:<br/>
+   Technology:<br/>
+   Results: <br/>
 <br/>
-SMS Spam Detection<br/>
-    Code: <br/>
+**SMS Spam Detection**<br/>
+    [Code] <br/>
     Description:<br/>
 <br/>
-Energy Consumption Dashboard<br/>
-    PowerBi File: <br/>
+**Energy Consumption Dashboard**<br/>
+    [PowerBi File] <br/>
     Description: <br/>
 
 Learning Projects
