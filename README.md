@@ -14,20 +14,18 @@ Lets connect and explore the data-driven possibilities.
 In this section i will list data analytics projects briefly describing the technology used to solve the case
 
 **Customer Churn Analysis**<br/>
-   [Code:](https://github.com/vjhalani/My-Data-Analyst-Portfolio/blob/main/Telecom_Customer_Churn.ipynb)<br/>
-   [PowerBI File:](https://github.com/vjhalani/My-Data-Analyst-Portfolio/blob/main/telco_powerbi.pbix)<br/>
-   [PPT:](https://github.com/vjhalani/My-Data-Analyst-Portfolio/blob/main/Telecom%20Customer%20Churn%20Prediction%20Using%20Machine%20Learning.pptx)<br/>
+   [Code](https://github.com/vjhalani/My-Data-Analyst-Portfolio/blob/main/Telecom_Customer_Churn.ipynb)<br/>
+   [PowerBI File](https://github.com/vjhalani/My-Data-Analyst-Portfolio/blob/main/telco_powerbi.pbix)<br/>
+   [PPT](https://github.com/vjhalani/My-Data-Analyst-Portfolio/blob/main/Telecom%20Customer%20Churn%20Prediction%20Using%20Machine%20Learning.pptx)<br/>
    [Description:]<br/>
-
-SMS Spam Detection
-
-    Code: 
-    Description:
-
-Energy Consumption Dashboard
-
-    PowerBi File: 
-    Description:
+<br/>
+SMS Spam Detection<br/>
+    Code: <br/>
+    Description:<br/>
+<br/>
+Energy Consumption Dashboard<br/>
+    PowerBi File: <br/>
+    Description: <br/>
 
 Learning Projects
 
