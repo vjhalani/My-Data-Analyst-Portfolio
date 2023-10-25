@@ -15,10 +15,10 @@ In this section i will list data analytics projects briefly describing the techn
 
 Customer Churn Analysis
 
-    Code: [code](https://github.com/vjhalani/My-Data-Analyst-Portfolio/blob/main/Telecom_Customer_Churn.ipynb)
-    PowerBI File:
-    PPT:
-    Description:
+   Code:  [![Code]](https://www.linkedin.com/in/varunjhalani/)
+   PowerBI File:
+   PPT:
+   Description:
 
 SMS Spam Detection
 
