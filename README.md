@@ -29,7 +29,7 @@ In this section i will list data analytics projects briefly describing the techn
     [PowerBi File]() <br/>
     Description: <br/>
 
-Learning Projects
+**Learning Projects**
 
 
 
