@@ -25,7 +25,7 @@ In this section i will list data analytics projects briefly describing the techn
     [Code]() <br/>
     Description:<br/>
 <br/>
-**Energy Consumption Dashboard**<br/>
+**Energy Consumption Dashboard using Power Bi**<br/>
     [PowerBi File]() <br/>
     Description: <br/>
 
@@ -33,6 +33,6 @@ Learning Projects
 
 
 
-## My Data Analytics and Machine Learning Certificate
+## Certification
 
 [Data Analytics and Machine Learning Certificate](https://github.com/vjhalani/My-Data-Analyst-Portfolio/blob/main/DataAnalytics_Certificate.pdf)
