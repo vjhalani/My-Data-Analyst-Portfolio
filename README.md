@@ -13,7 +13,7 @@ Lets connect and explore the data-driven possibilities.
 ## Portfolio Projects
 In this section i will list data analytics projects briefly describing the technology used to solve the cases.
 
-###Customer Churn Analysis<br/>
+### Customer Churn Analysis<br/>
    [Code](https://github.com/vjhalani/My-Data-Analyst-Portfolio/blob/main/Telecom_Customer_Churn.ipynb)<br/>
    [PowerBI File](https://github.com/vjhalani/My-Data-Analyst-Portfolio/blob/main/telco_powerbi.pbix)<br/>
    [PPT](https://github.com/vjhalani/My-Data-Analyst-Portfolio/blob/main/Telecom%20Customer%20Churn%20Prediction%20Using%20Machine%20Learning.pptx)<br/>
@@ -21,7 +21,7 @@ In this section i will list data analytics projects briefly describing the techn
    Technology:<br/>
    Results: <br/>
 <br/>
-###Revenue Insights to the Revenue team in Hospility Domain - PowerBi, Tableau###</br>
+### Revenue Insights to the Revenue team in Hospility Domain - PowerBi, Tableau###</br>
 [Visuals](https://github.com/vjhalani/My-Data-Analyst-Portfolio/blob/main/Telecom_Customer_Churn.ipynb)<br/>
 <br/>
    **Description**: AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other 
@@ -45,15 +45,15 @@ In this section i will list data analytics projects briefly describing the techn
                Elite type rooms has the most booking and as well higher cancellation rateBy researching the cancellation policies of different hotels, I discovered that most hotels                    don't charge a cancellation fee if you cancel your booking more than three months before the check-in date. However, if you cancel after that point, the fees typically                  range from 60% to 90% of the total booking cost.</br>
 
 
-###SMS Spam Detection###<br/>
+### SMS Spam Detection###<br/>
     [Code]() <br/>
     Description:<br/>
 <br/>
-###Energy Consumption Dashboard using Power Bi###<br/>
+### Energy Consumption Dashboard using Power Bi###<br/>
     [PowerBi File]() <br/>
     Description: <br/>
 
-##Learning Projects##
+## Learning Projects##
 
 
 
